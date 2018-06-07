@@ -69,5 +69,5 @@ title('O');
     M = sqrt(Gx.^2 + Gy.^2);
 
     % funcao inversa da tangente
-    O = atan2(Gx,Gy); 
+    O = atan2(Gy,Gx); 
  end
