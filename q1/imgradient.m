@@ -35,5 +35,5 @@
     M = sqrt(Gx.^2 + Gy.^2);
 
     % função inversa da tangente
-    O = atan2(Gy,Gx); 
+    O = atan2(Gx,Gy); 
  end
